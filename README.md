@@ -1,4 +1,4 @@
-datasciencecoursera
+## datasciencecoursera
 ===================
 
-Data Science ToolKit Assignment 1
+  *Data Science ToolKit Assignment 1
